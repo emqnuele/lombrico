@@ -1,0 +1,4 @@
+build/
+lombrico
+lombrico-debug
+*.exe
